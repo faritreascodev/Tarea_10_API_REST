@@ -1,4 +1,4 @@
-Calificación: 4.3/5
+Calificación: 4.5/5
 - Debe incluir bibliografía en todos los documentos
 - Faltan números de página
 - No debe capturas la pantalla completa, ya que eso hace que no se aprecie con claridad la imagen. En su lugar solo debe capturar la parte que desea resaltar de la imagen
